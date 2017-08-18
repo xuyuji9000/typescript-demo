@@ -8,4 +8,4 @@ function greeter(person: Person) {
 
 let user = { firstName: 'Jane', lastName: 'user' } 
 
-document.body.innerHTML = greeter(user)
+console.log(greeter(user))
