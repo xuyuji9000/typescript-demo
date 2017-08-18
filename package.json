@@ -7,5 +7,8 @@
     "watch": "tsc *.ts --watch --target ES2015"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
 }
