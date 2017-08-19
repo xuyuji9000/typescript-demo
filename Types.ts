@@ -26,4 +26,12 @@ let x: [string, number];
 x= ['hello', 10]
 //x= [ 10, 'hello']
 
-console.error(x)
+// enum
+
+// any
+
+// void
+
+// never
+
+// type assertion
